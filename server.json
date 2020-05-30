@@ -1,68 +1,28 @@
 {
   "foods": [
     {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "price": "19.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Veggie",
-      "price": "22.11",
+      "price": "21.95",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "id": 2,
-      "available": false
+      "available": true
     },
     {
-      "description": "12``12",
-      "image": "1`212`",
-      "name": "12`1`212`",
-      "price": "`1212`",
-      "id": 4
-    },
-    {
-      "description": "",
-      "image": "",
-      "name": "",
-      "price": "",
-      "id": 5
-    },
-    {
-      "description": "",
-      "image": "",
-      "name": "",
-      "price": "",
-      "id": 6
-    },
-    {
-      "description": "descrirewiirwe",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Teste title",
-      "price": "12",
-      "id": 7
-    },
-    {
-      "description": "sdffdsadfsdfssdfa",
-      "image": "\"https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png\"",
-      "name": "Title",
-      "price": "12",
-      "id": 8
-    },
-    {
-      "description": "daasddsaads",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Title Past",
-      "price": "12",
-      "id": 9
-    },
-    {
-      "description": "daasddsaads",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Title Past",
-      "price": "12",
-      "id": 10
-    },
-    {
-      "description": "elasd';ldasl';sda'l;sda",
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "title",
-      "price": "12",
-      "id": 11
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Macarrao",
+      "price": "29",
+      "description": "Macarrao com camarao",
+      "available": true,
+      "id": 3
     }
   ]
 }
